@@ -1,5 +1,5 @@
 {
-    "interstitialEnable": false,
+    "interstitialEnable": true,
     "interstitialEnableInterval": 30,
     "rewardedAdEnable": false,
     "rewardedAdInterval": 30
