@@ -1,0 +1,6 @@
+{
+    "com.jac.games.elementblocks": {
+        "enable": true,
+        "interval": 30
+    }
+}
