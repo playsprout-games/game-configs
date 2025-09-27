@@ -1,4 +1,6 @@
 {
-    "enable": true,
-    "interval": 30
+    "interstitialEnable": true,
+    "interstitialEnableInterval": 30,
+    "rewardedAdEnable": true,
+    "rewardedAdInterval": 30
 }
