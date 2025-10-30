@@ -2,5 +2,5 @@
     "isInterstitialEnabled": true,
     "interstitialInterval": 80,
     "isRewardedEnabled": true,
-    "rewardedInterval": 30
+    "rewardedInterval": 1
 }
